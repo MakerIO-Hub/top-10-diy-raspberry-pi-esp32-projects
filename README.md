@@ -18,6 +18,9 @@ By tilting the controller left or right, you can steer directly in Need for Spee
 
 It's a fun example of how motion sensors and microcontrollers can be combined to create custom gaming controllers.
 
+**Source Code & Project Files:  
+**[GitHub – Raspberry Pi Pico MPU6050 Gyro Gamepad](https://github.com/MakerIO-Hub/pico-mpu6050-gyro-gamepad)
+
 **Watch the project video:  
 **[▶ I Controlled Need for Speed with an MPU6050](https://youtu.be/9KQNjhdO-iA)
 
@@ -30,6 +33,9 @@ Build a custom wireless Bluetooth macro pad with 16 programmable keys using the 
 The project uses an MCP23017 I/O expander to handle all 16 mechanical buttons while keeping the number of required GPIO connections low. The Pico 2 W communicates with a computer over Bluetooth, allowing the macro pad to send keyboard commands wirelessly.
 
 You can use it for shortcuts, copy and paste, productivity tasks, and custom keyboard functions without needing a USB connection or additional PC software.
+
+**Source Code & Project Files:  
+**[GitHub – Raspberry Pi Pico 2 W Bluetooth Macro Pad](https://github.com/MakerIO-Hub/pico-2w-bluetooth-macropad-16keys)
 
 **Watch the project video:  
 **[▶ I Built a Wireless Bluetooth Macro Pad with 16 Keys](https://youtu.be/69uvluCrlgI)
@@ -46,6 +52,9 @@ The project also uses Wi-Fi to retrieve internet time through NTP and display we
 
 It's a great example of combining audio playback, a graphical interface, and wireless connectivity in one Raspberry Pi Pico project.
 
+**Source Code & Project Files:  
+**[GitHub – Raspberry Pi Pico 2 W Mini MP3 Player](https://github.com/MakerIO-Hub/raspberry-pi-pico-2w-mini-mp3-player)
+
 **Watch the project video:  
 **[▶ I Made a DIY MP3 Player with Raspberry Pi Pico 2 W](https://youtu.be/1zCeVvjekDs)
 
@@ -59,6 +68,9 @@ This project uses PWM (Pulse Width Modulation) to adjust the LED brightness. Phy
 
 It's a straightforward DIY electronics project that demonstrates how a microcontroller can control LED brightness using PWM.
 
+**Source Code & Project Files:  
+**[GitHub – Raspberry Pi Pico HW-269 LED Project](https://github.com/MakerIO-Hub/pico-hw269-led)
+
 **Watch the project video:  
 **[▶ I Built a Dimmable Bedside Lamp with Raspberry Pi Pico](https://youtu.be/wSYLIcqqGU4)
 
@@ -71,6 +83,9 @@ New to electronics and microcontrollers? This project is a simple starting point
 Learn how to connect an LED and resistor to a Raspberry Pi Pico and write a small MicroPython program to make the LED blink.
 
 This basic electronics tutorial introduces GPIO pins, simple circuits, and MicroPython programming. It's a useful first step before moving on to more advanced Raspberry Pi Pico projects.
+
+**Source Code & Project Files:  
+**[GitHub – Raspberry Pi Pico LED Blink Tutorial](https://github.com/MakerIO-Hub/pico-led-blink-tutorial)
 
 **Watch the project video:  
 **[▶ Build Your First Electronics Project with Raspberry Pi Pico](https://youtu.be/rtchmPcH5b4)
@@ -86,6 +101,9 @@ This project displays GPS information such as speed, altitude, and location on a
 One of the highlights is its Wi-Fi-powered live GPS web dashboard, allowing GPS information to be viewed through a web interface.
 
 A feature-packed Raspberry Pi Pico 2 W project combining GPS, wireless connectivity, and a custom user interface.
+
+**Source Code & Project Files:  
+**[GitHub – PicoTrack: Raspberry Pi Pico 2 W GPS Tracker](https://github.com/MakerIO-Hub/PicoTrack-V1)
 
 **Watch the project video:  
 **[▶ I Built a 10-Feature GPS Tracker with Raspberry Pi Pico 2 W & NEO-6M](https://youtu.be/pPQ5ZmQeuxk)
@@ -117,6 +135,9 @@ The sensor detects the controller's movements and sends the information to the P
 
 It's a fun DIY gaming project that explores motion detection and interactive controls using a Raspberry Pi Pico.
 
+**Source Code & Project Files:  
+**[GitHub – Raspberry Pi Pico MPU6050 Gyro Gamepad](https://github.com/MakerIO-Hub/pico-mpu6050-gyro-gamepad)
+
 **Watch the project video:  
 **[▶ I Built a DIY Motion-Controlled Arcade Game!](https://youtu.be/sREG-6Z4qks)
 
@@ -131,6 +152,9 @@ This project uses a Raspberry Pi 4 and a 2.8-inch ILI9341 display with three phy
 The interface provides useful system and network utilities, including CPU temperature monitoring, system information, network monitoring, Wi-Fi and Bluetooth scanning, network speed testing, storage and battery monitoring, GPIO testing, and hardware detection.
 
 A compact DIY Raspberry Pi project that brings multiple monitoring and diagnostic tools together in one portable device.
+
+**Source Code & Project Files:  
+**[GitHub – Raspberry Pi 4 ILI9341 Mini Control Panel](https://github.com/MakerIO-Hub/rpi4-ili9341-mini-control-panel)
 
 **Watch the project video:  
 **[▶ I Built a Raspberry Pi That Controls EVERYTHING!](https://youtu.be/w6fHIRazGLg)
@@ -147,6 +171,9 @@ The ESP32-S3 provides the processing power for running supported retro gaming sy
 
 It's a great project for anyone interested in ESP32-S3 development, retro gaming, embedded systems, and custom handheld consoles.
 
+**Source Code & Project Files:  
+**[GitHub – ESP32-S3 N16R8 Retro-Go Gaming Console](https://github.com/MakerIO-Hub/ESP32-S3-n16r8-Retro-Go-Console)
+
 **Watch the project video:  
 **[▶ I Turned an ESP32-S3 Into a Retro Game Console | Retro-Go Full Guide](https://youtu.be/DYWG1luQNXs)
 
@@ -162,8 +189,6 @@ Whether you're a maker, electronics enthusiast, or hobbyist developer, I hope th
 
 If you enjoyed these builds, subscribe to the YouTube channel for more Raspberry Pi projects, ESP32 tutorials, DIY electronics, and maker projects.
 
-**Watch the full compilation:  
-**[▶ I Built 10 MORE DIY Projects with Raspberry Pi, Pico & ESP!](https://chatgpt.com/c/ADD_YOUR_YOUTUBE_VIDEO_URL_HERE)
 
 ## **Topics & Keywords**
 
