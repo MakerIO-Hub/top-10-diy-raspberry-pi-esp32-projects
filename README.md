@@ -6,7 +6,14 @@ These projects combine hardware and software to create practical gadgets, intera
 
 Each project includes a YouTube video where you can see the complete build, the hardware in action, and how the project works.
 
-For designing custom **electronic circuits** and creating professional [**PCB layout**](https://design.jlcpcb.com/?from=makerio_layout) designs, having the right tools makes all the difference.
+### PCB Design & Manufacturing
+
+If you have a schematic but want to speed up the process of generating PCB files, you can try [JLCPCB Layout Service](https://jlcpcb.com?from=MakerIO).
+
+Their professional engineers can turn your schematic into manufacturing-ready PCB files in as little as 3 working days. You can then use the completed PCB files to directly place an order for PCB fabrication or PCBA on JLCPCB.
+
+If you'd like to give this service a try, why not claim a $90 Layout Service coupon first:
+[Claim your $90 Coupon Center](https://jlcpcb.com/coupon-center?from=MakerIO_couponcenter)
 
 ## **1\. Motion-Controlled Need for Speed Controller**
 
