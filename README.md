@@ -8,19 +8,6 @@ Each project includes a YouTube video where you can see the complete build, the 
 
 For designing custom **electronic circuits** and creating professional [**PCB layout**](https://design.jlcpcb.com/?from=makerio_layout) designs, having the right tools makes all the difference.
 
-## **Table of Contents**
-
-1. [Motion-Controlled Need for Speed Controller](https://chatgpt.com/c/6ae8475a-4898-83ed-9f20-73e53d3eb258#1-motion-controlled-need-for-speed-controller)
-2. [Wireless Bluetooth Macro Pad with 16 Keys](https://chatgpt.com/c/6ae8475a-4898-83ed-9f20-73e53d3eb258#2-wireless-bluetooth-macro-pad-with-16-keys)
-3. [DIY MP3 Player with Raspberry Pi Pico 2 W](https://chatgpt.com/c/6ae8475a-4898-83ed-9f20-73e53d3eb258#3-diy-mp3-player-with-raspberry-pi-pico-2-w)
-4. [Dimmable DIY Bedside Lamp](https://chatgpt.com/c/6ae8475a-4898-83ed-9f20-73e53d3eb258#4-dimmable-diy-bedside-lamp)
-5. [First Electronics Project with Raspberry Pi Pico](https://chatgpt.com/c/6ae8475a-4898-83ed-9f20-73e53d3eb258#5-first-electronics-project-with-raspberry-pi-pico)
-6. [10-Feature GPS Tracker with Raspberry Pi Pico 2 W](https://chatgpt.com/c/6ae8475a-4898-83ed-9f20-73e53d3eb258#6-10-feature-gps-tracker-with-raspberry-pi-pico-2-w)
-7. [Custom Raspberry Pi 5 with Waveshare Display](https://chatgpt.com/c/6ae8475a-4898-83ed-9f20-73e53d3eb258#7-custom-raspberry-pi-5-with-waveshare-display)
-8. [Motion-Controlled Arcade Game](https://chatgpt.com/c/6ae8475a-4898-83ed-9f20-73e53d3eb258#8-motion-controlled-arcade-game)
-9. [Raspberry Pi Universal Control Center](https://chatgpt.com/c/6ae8475a-4898-83ed-9f20-73e53d3eb258#9-raspberry-pi-universal-control-center)
-10. [ESP32-S3 Retro Gaming Console](https://chatgpt.com/c/6ae8475a-4898-83ed-9f20-73e53d3eb258#10-esp32-s3-retro-gaming-console)
-
 ## **1\. Motion-Controlled Need for Speed Controller**
 
 **Components:** Raspberry Pi Pico, MPU6050 Motion Sensor
